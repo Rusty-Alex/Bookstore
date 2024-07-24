@@ -1,0 +1,27 @@
+@media(max-width:460px){
+    .bookArea{
+        width: 350px;
+    }
+}
+
+@media(max-width:420px){
+    .bookArea{
+        width: 300px;
+    }
+    .booksec h1{
+        font-size: 20px;
+    }
+}
+
+@media(max-width:385px){
+    .bookArea{
+        width: 250px;
+    }
+    .imgHead{
+        width: 200px;
+        height: 100px;
+    }
+    .booksec h1{
+        font-size: 17px;
+    }
+}
